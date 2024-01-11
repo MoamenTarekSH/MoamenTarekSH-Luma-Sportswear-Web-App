@@ -1,0 +1,11 @@
+Tests\P7_ChangeSortItems.class
+Tests\TestBase.class
+Tests\P3_CompareTwoItem.class
+Tests\P9_Login.class
+Tests\P6_AddToCart.class
+Utilities\Helper.class
+Tests\P5_AddReview.class
+Tests\P0_RegistrationTest.class
+Tests\P4_AddToWishList.class
+Tests\P8_RegisterAndChangPass.class
+Tests\P1_SearchForItem.class

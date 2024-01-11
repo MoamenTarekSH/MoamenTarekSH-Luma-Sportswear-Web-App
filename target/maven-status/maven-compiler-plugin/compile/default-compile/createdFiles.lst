@@ -1,0 +1,13 @@
+PageObjects\AboutItemPage.class
+PageObjects\RegisterPage.class
+PageObjects\BasePage.class
+PageObjects\CartPage.class
+PageObjects\ContactUSPage.class
+PageObjects\SigninPage.class
+PageObjects\AccountPage.class
+PageObjects\ChangePassPage.class
+PageObjects\HomePage.class
+PageObjects\WishPage.class
+PageObjects\ComparePage.class
+PageObjects\ReviewPage.class
+PageObjects\SearchPage.class

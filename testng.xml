@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite  name="Luma Regression Suite">
+	<parameter name="Browser" value="firefox"></parameter>
+  <test name="Regression Test" preserve-order="true">
+    <classes>
+	      <class name="Tests.P8_RegisterAndChangPass"/>
+	      <class name="Tests.P9_Login"/>
+	      <class name="Tests.P1_SearchForItem"/>
+	      <class name="Tests.P3_CompareTwoItem"/>
+	      <class name="Tests.P4_AddToWishList"/>
+	      <class name="Tests.P5_AddReview"/>
+	      <class name="Tests.P6_AddToCart"/>
+	      <class name="Tests.P7_ChangeSortItems"/>
+
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
